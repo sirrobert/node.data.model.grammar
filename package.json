@@ -1,0 +1,16 @@
+{
+"scripts": {
+"test": "./node_modules/mocha/bin/mocha ./test/"
+},
+  "name": "@sirrobert/node.data.model.grammar",
+  "version": "0.0.1",
+  "description": "A node module for formal grammars.",
+  "main": "index.js",
+  "repository": "git@github.com:sirrobert/node.data.model.grammar.git",
+  "author": "Sir Robert Burbridge <sirrobert@gmail.com>",
+  "license": "SEE LICENSE IN 'NONE.  ALL RIGHTS RESERVED.'",
+  "devDependencies": {
+    "mocha": "^5.1.0",
+    "unexpected": "^10.37.4"
+  }
+}
